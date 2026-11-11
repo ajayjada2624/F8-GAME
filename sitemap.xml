@@ -1,42 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <!-- Homepage -->
   <url>
-    <loc>https://f8game.online/</loc>
+    <loc>https://f8in.in/</loc>
     <lastmod>2026-03-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- About Us Page -->
+  
+  <!-- About Us -->
   <url>
-    <loc>https://f8game.online/about-us.html</loc>
+    <loc>https://f8in.in/about-us.html</loc>
     <lastmod>2026-03-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Contact Us Page -->
+  
+  <!-- Contact Us -->
   <url>
-    <loc>https://f8game.online/contact-us.html</loc>
+    <loc>https://f8in.in/contact-us.html</loc>
     <lastmod>2026-03-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Disclaimer Page -->
+  
+  <!-- Disclaimer -->
   <url>
-    <loc>https://f8game.online/disclaimer.html</loc>
+    <loc>https://f8in.in/disclaimer.html</loc>
     <lastmod>2026-03-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
-  <!-- Privacy Policy Page -->
+  <!-- 404 Page (Optional for indexing, but included for completeness) -->
   <url>
-    <loc>https://f8game.online/privacy-policy.html</loc>
+    <loc>https://f8in.in/404.html</loc>
     <lastmod>2026-03-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
   </url>
+
 </urlset>
